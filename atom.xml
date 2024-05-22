@@ -3,11 +3,11 @@
   <title>Sixm0のBlog</title>
   
   <subtitle>正是修行时</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://sixm0.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://sixm0.github.io/"/>
   <updated>2024-05-20T01:57:26.580Z</updated>
-  <id>http://example.com/</id>
+  <id>https://sixm0.github.io/</id>
   
   <author>
     <name>Sixm0</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://sixm0.github.io/posts/4a17b156.html"/>
+    <id>https://sixm0.github.io/posts/4a17b156.html</id>
     <published>2024-05-20T01:37:43.788Z</published>
     <updated>2024-05-20T01:57:26.580Z</updated>
     
